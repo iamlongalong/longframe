@@ -1,0 +1,5 @@
+package casbin
+
+func init() {
+
+}
